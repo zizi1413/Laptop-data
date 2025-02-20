@@ -8,4 +8,9 @@ This dataset enables various insights and analytics, including:
 6-Find the most popular brands based on the number of laptops listed.
 7-Identify the average price per brand.
 
+Dynamic Laptop Data Dashboard in Tableau
+
+I have created a dynamic dashboard in Tableau using the LaptopData dataset
+This dashboard provides a user-friendly way to explore laptop data and make data-driven decisions efficiently.
+
 
