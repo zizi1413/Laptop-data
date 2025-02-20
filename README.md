@@ -1,5 +1,5 @@
 # Laptop-data
-This dataset enables various insights and analytics, including:
+This dataset enables various insights and analytics in SQL , including:
 1-Find the most expensive and cheapest laptops.
 2-Compare prices between brands (e.g., Apple vs. Dell vs. HP).
 3-Identify the price distribution using percentiles or quartiles.
